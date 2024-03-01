@@ -215,4 +215,4 @@ for (let voterNumber = 1; voterNumber <= 50; voterNumber++) {
   console.log(`percentages2: ${percentages2}`);
   const areArraysEqual = (percentages) === (percentages2);
   console.log(`Are the arrays equal? ${areArraysEqual}`);
-  
+  console.log("------------------------------")
