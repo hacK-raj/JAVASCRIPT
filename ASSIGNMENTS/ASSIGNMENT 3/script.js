@@ -130,7 +130,7 @@ const neighbours = ['Pakistan', 'China', 'Nepal'];
 neighbours.push('Utopia');
 console.log(neighbours); 
 
-// Removing the newly added country 'Utopia'
+// Removing 
 neighbours.pop();
 console.log(neighbours); 
 
